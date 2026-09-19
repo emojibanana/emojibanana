@@ -18,6 +18,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=emojibanana&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=emojibanana)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femojibanana&label=Profile+Views&icon=github&color=%236ea8fe&message=&style=for-the-badge&tz=UTC)
