@@ -1,12 +1,17 @@
 <h1 align="center">Watashi no GitHub e yōkoso Emoji Banana</h1>
-<h3 align="center">Seorang Developer/AI Enggineer dari Indonesia</h3>
+<h3 align="center">A Computer Science Student In State University of Medan, Great at Web and AI Enggineer</h3>
+
+- 🌱 I’m currently learning **AI Automation**
 
 - 📫 How to reach me **Ahmadbanna1709@gmai.com**
+
+- ⚡ Fun fact **I Like Anime & Game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/emoji_banana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emoji_banana1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mojiplay-y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mojiplay-y" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mojiplay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mojiplay" height="30" width="40" /></a>
+<a href="https://discord.gg/emojibanana6900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="emojibanana6900" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
