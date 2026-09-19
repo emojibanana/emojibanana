@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI Automation**
 
-- 📫 How to reach me **Ahmadbanna1709@gmai.com**
+- 📫 How to reach me **Ahmadbanna1709@gmail.com**
 
 - ⚡ Fun fact **I Like Anime & Game**
 
