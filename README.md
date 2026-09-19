@@ -1,9 +1,9 @@
-<h1 align="center">Yōkoso. Watashi wa Emoji Banana-desu.</h1>
+<h1 align="center">Hola, I'm Ahmad Al Banna</h1>
 <h3 align="center">A Computer Science Student In State University of Medan, Great at Web and AI Enggineer</h3>
 
-- 🌱 I’m currently learning **AI Automation**
+- 🌱 I’m currently learning **AI Enggineer**
 
-- 📫 How to reach me **Ahmadbanna1709@gmail.com**
+- 📫 How to reach me **ahmadbanna1709@gmail.com**
 
 - ⚡ Fun fact **I Like Anime & Game**
 
@@ -18,4 +18,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=emojibanana&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femojibanana&label=Profile+Views&icon=github&color=%236ea8fe&message=&style=for-the-badge&tz=UTC)
+![emojibanana](https://count.getloli.com/@emojibanana?name=emojibanana&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
