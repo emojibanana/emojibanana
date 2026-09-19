@@ -1,4 +1,4 @@
-<h1 align="center">Watashi no GitHub e yōkoso Emoji Banana</h1>
+<h1 align="center">Yōkoso. Watashi wa Emoji Banana-desu.</h1>
 <h3 align="center">A Computer Science Student In State University of Medan, Great at Web and AI Enggineer</h3>
 
 - 🌱 I’m currently learning **AI Automation**
